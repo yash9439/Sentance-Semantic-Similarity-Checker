@@ -10,6 +10,7 @@
 
 <!-- Introduction -->
     This model is able to calculate or give a score signifing the sentence similarity score between 0 to 1.
+    This model is also capable for Paraphrase Checker and Question Similarity Checker.
 
 
 
